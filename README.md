@@ -1,4 +1,4 @@
-## Hi, I'm Uswa 🍭
+## Hi, I'm Uswa Fatima🍭
 
 🧠 Software Engineering student at NUST<br/>
 👾 I code for fun and to create small projects<br/>
@@ -6,7 +6,7 @@
 🎞️ I capture nature for fun
 
 # 💫 About Me:
-Hi, I am Uswa Fatima, a sophomore at SE NUST.<br>
+Sophomore at SE NUST.<br>
 
 
 # 💻 Tech Stack:

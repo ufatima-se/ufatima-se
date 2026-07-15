@@ -1,12 +1,12 @@
-## Hi, I'm Uswa Fatima🍭
+## Hi, I'm Uswa Fatima 🍭
 
 🧠 Software Engineering student at NUST<br/>
 👾 I code for fun and to create small projects<br/>
 🤖 Created a game for second sem project and I love to work with GUI<br/>
 🎞️ I capture nature for fun
 
-# 💫 About Me:
-Sophomore at SE NUST.<br>
+# About Me:
+Sophomore at SEECS NUST.<br>
 
 
 # 💻 Tech Stack:
@@ -16,10 +16,9 @@ Sophomore at SE NUST.<br>
 ![](https://streak-stats.demolab.com/?user=ufatima-se&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ufatima-se&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 

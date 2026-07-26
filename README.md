@@ -12,7 +12,7 @@ LinkedIn: https://www.linkedin.com/in/uswafatima1/
 <h2>🎓 Harvard CS50x Certificate</h2>
 
 <p align="center">
-  <img src="cs50_certificate.png" alt="Harvard CS50x Certificate" width="700">
+  <img src="cs50_certificate.png" alt="Harvard CS50x Certificate" width="500">
 </p>
 
 # 💻 Tech Stack:

@@ -7,8 +7,13 @@
 
 # About Me:
 Sophomore at SEECS NUST.<br>
-Certification: CS50x: Introduction to Computer Science (Harvard University)</br>
 LinkedIn: https://www.linkedin.com/in/uswafatima1/
+
+## 🎓 Harvard CS50x Certificate
+
+Successfully completed **Harvard University's CS50x: Introduction to Computer Science**.
+
+![CS50 Certificate](cs50_certificate.png)
 
 
 # 💻 Tech Stack:

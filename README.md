@@ -18,7 +18,7 @@ LinkedIn: https://www.linkedin.com/in/uswafatima1/
 <h2> OneScreen data annotation activity Certificate</h2>
 
 <p align="center">
-  <img src="one_screen_certificate.png" alt="Onescreen Certificate" width="555">
+  <img src="one_screen_certificate.png" alt="Onescreen Certificate" width="500">
 </p>
 
 # 💻 Tech Stack:
